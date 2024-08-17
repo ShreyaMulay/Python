@@ -1,0 +1,58 @@
+________________________________________________________________
+__________ Directory Watcher  ________________
+________________________________________________________________
+Converted absolute path is :  /Users/shubhamwalhekar/Desktop/Python/Automation/study
+Current folder is :  /Users/shubhamwalhekar/Desktop/Python/Automation/study
+Subfoldername :  shreya
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/createfile1.py
+Size :  438  bytes
+
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/openfile.py
+Size :  482  bytes
+
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/1.txt
+Size :  0  bytes
+
+Deleted successfully
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/readfile.py
+Size :  553  bytes
+
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/createfile.py
+Size :  168  bytes
+
+Current folder is :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/shreya
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/shreya/example.txt
+Size :  13  bytes
+
+Delete files count : 1
+Time require to execute :  0.0005681514739990234
+________________________________________________________________
+____________  Thank you for using our script  ____________________
+________________________________________________________________
+________________________________________________________________
+__________ Directory Watcher  ________________
+________________________________________________________________
+Converted absolute path is :  /Users/shubhamwalhekar/Desktop/Python/Automation/study
+Current folder is :  /Users/shubhamwalhekar/Desktop/Python/Automation/study
+Subfoldername :  shreya
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/createfile1.py
+Size :  438  bytes
+
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/openfile.py
+Size :  482  bytes
+
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/readfile.py
+Size :  553  bytes
+
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/createfile.py
+Size :  168  bytes
+
+Current folder is :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/shreya
+Filename :  /Users/shubhamwalhekar/Desktop/Python/Automation/study/shreya/example.txt
+Size :  13  bytes
+
+Delete files count : 0
+Time require to execute :  0.00010609626770019531
+________________________________________________________________
+____________  Thank you for using our script  ____________________
+________________________________________________________________

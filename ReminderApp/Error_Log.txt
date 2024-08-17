@@ -1,0 +1,50 @@
+
+
+ Error : stat: path should be string, bytes, os.PathLike or integer, not DataFrame
+ Log Time 2024-07-09 20:05:31.286290
+
+
+
+ Error : 'DataFrame' object has no attribute 'Columns'
+ Log Time 2024-07-09 20:12:08.242513
+
+
+
+ Error : 'Columns'
+ Log Time 2024-07-09 20:12:25.797917
+
+
+
+ Error : 'DataFrame' object has no attribute 'Columns'
+ Log Time 2024-07-09 20:12:58.199322
+
+
+
+ Error : list index out of range
+ Log Time 2024-07-09 20:17:10.012533
+
+
+
+ Error : 'list' object has no attribute 'appent'
+ Log Time 2024-07-09 20:19:01.560046
+
+
+
+ Error : 'list' object has no attribute 'appent'
+ Log Time 2024-07-09 20:19:04.476666
+
+
+
+ Error : stat: path should be string, bytes, os.PathLike or integer, not list
+ Log Time 2024-07-09 20:22:21.433350
+
+
+
+ Error : stat: path should be string, bytes, os.PathLike or integer, not list
+ Log Time 2024-07-09 20:23:09.129518
+
+
+
+ Error : stat: path should be string, bytes, os.PathLike or integer, not list
+ Log Time 2024-07-09 20:27:26.996871
+

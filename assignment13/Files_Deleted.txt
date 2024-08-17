@@ -1,0 +1,33 @@
+
+
+ Files Deleted  At  :  2024-07-07 14:07:44.002134
+
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/loop1 copy.py
+
+
+ Files Deleted  At  :  2024-07-07 14:08:53.573645
+
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/loop1 copy.py
+
+
+ Files Deleted  At  :  2024-07-07 15:45:53.939505
+
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/loop1 copy.py
+
+
+ Files Deleted  At  :  2024-07-07 15:47:21.635887
+
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/loop1 copy.py
+
+
+ Files Deleted  At  :  2024-07-07 16:08:13.217236
+
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/loop1 copy.py
+
+
+ Files Deleted  At  :  2024-07-07 16:41:40.535826
+
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/Marvellous copy.py
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/loopModule.py
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/Main.py
+/Users/shubhamwalhekar/Desktop/Python/assignment13/testing/loop1 copy.py

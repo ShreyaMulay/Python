@@ -1,0 +1,4 @@
+----  Marvellous Infosystems by Shreya Mulay ----
+Application name: main.py
+Duplicate found:
+[['/Users/shubhamwalhekar/Desktop/Python/DirectoryCleaner/Test/program161 copy.c', '/Users/shubhamwalhekar/Desktop/Python/DirectoryCleaner/Test/program161 copy 2.c', '/Users/shubhamwalhekar/Desktop/Python/DirectoryCleaner/Test/program161 copy 3.c'], ['/Users/shubhamwalhekar/Desktop/Python/DirectoryCleaner/Test/program163.c', '/Users/shubhamwalhekar/Desktop/Python/DirectoryCleaner/Test/program163 copy.c', '/Users/shubhamwalhekar/Desktop/Python/DirectoryCleaner/Test/program163 copy 3.c', '/Users/shubhamwalhekar/Desktop/Python/DirectoryCleaner/Test/program163 copy 2.c']]

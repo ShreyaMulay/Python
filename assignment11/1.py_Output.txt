@@ -1,0 +1,18 @@
+File Checksum :
+
+ef7b515ad9f37d2a50742c46951ad8c6 : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/HeadBrainLinearRegression.py']
+
+5ef9b1f6c7af37c68b90fed3bf9719ea : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/IrisClassification.py']
+
+2d8712620ee2b14c216a5b1d61fdd0d5 : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/linearRegression.py']
+
+7901f45650140a8b406c966c59a073e7 : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/DecisionTree.py']
+
+0ba826c2da862a8ab953ba7b21462130 : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/MarvellousHeadBrain.csv']
+
+39a66abc4cdfd5c3a109dfea43070872 : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/PlayPredictorAssignment/PlayPredictor copy.py', '/Users/shubhamwalhekar/Desktop/Python/MachineLearning/PlayPredictorAssignment/PlayPredictor.py']
+
+852e7b3191d1bbd703b1bea92a3a8936 : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/PlayPredictorAssignment/MarvellousInfosystems_PlayPredictor.csv']
+
+abb50d4b31cc275c8231f61aa7089a70 : ['/Users/shubhamwalhekar/Desktop/Python/MachineLearning/PlayPredictorAssignment/Marvellous Infosystems Python -  Python Assignment 14.pdf']
+

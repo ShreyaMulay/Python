@@ -1,0 +1,85 @@
+
+
+ Error : can only concatenate str (not "dict") to str
+ Log Time 2024-07-06 13:38:47.319138
+
+
+
+ Error : name 'dictionary' is not defined
+ Log Time 2024-07-06 13:41:42.469339
+
+
+
+ Error : 'NoneType' object has no attribute 'items'
+ Log Time 2024-07-06 13:48:53.899301
+
+
+
+ Error : 'NoneType' object has no attribute 'items'
+ Log Time 2024-07-06 13:49:43.523962
+
+
+
+ Error : 'NoneType' object has no attribute 'items'
+ Log Time 2024-07-06 13:51:24.187145
+
+
+
+ Error : 'NoneType' object has no attribute 'items'
+ Log Time 2024-07-06 13:56:48.872936
+
+
+
+ Error : 'list' object has no attribute 'items'
+ Log Time 2024-07-06 13:57:26.583844
+
+
+
+ Error : 'NoneType' object has no attribute 'items'
+ Log Time 2024-07-06 13:57:48.462324
+
+
+
+ Error : can only concatenate str (not "list") to str
+ Log Time 2024-07-06 14:06:17.494761
+
+
+
+ Error : can only concatenate str (not "list") to str
+ Log Time 2024-07-06 14:10:10.410667
+
+
+
+ Error : local variable 'string' referenced before assignment
+ Log Time 2024-07-06 14:14:35.703402
+
+
+
+ Error : name 'FileDuplicate' is not defined
+ Log Time 2024-07-06 14:19:24.769029
+
+
+
+ Error : remove: path should be string, bytes or os.PathLike, not list
+ Log Time 2024-07-06 14:19:49.364150
+
+
+
+ Error : remove: path should be string, bytes or os.PathLike, not list
+ Log Time 2024-07-06 14:20:18.185037
+
+
+
+ Error : remove: path should be string, bytes or os.PathLike, not list
+ Log Time 2024-07-06 14:20:48.219524
+
+
+
+ Error : remove: path should be string, bytes or os.PathLike, not list
+ Log Time 2024-07-06 14:21:12.310272
+
+
+
+ Error : 'NoneType' object is not iterable
+ Log Time 2024-07-06 14:26:53.843169
+

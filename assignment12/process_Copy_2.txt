@@ -1,0 +1,440 @@
+LOG file created as Sun Jul  7 19:42:04 2024
+
+
+{'username': 'root', 'pid': 0, 'name': 'kernel_task'}
+{'username': 'root', 'pid': 1, 'name': 'launchd'}
+{'username': 'root', 'pid': 309, 'name': 'logd'}
+{'username': 'root', 'pid': 311, 'name': 'UserEventAgent'}
+{'username': 'root', 'pid': 313, 'name': 'uninstalld'}
+{'username': 'root', 'pid': 314, 'name': 'fseventsd'}
+{'username': 'root', 'pid': 318, 'name': 'systemstats'}
+{'username': 'root', 'pid': 321, 'name': 'configd'}
+{'username': 'root', 'pid': 323, 'name': 'powerd'}
+{'username': 'root', 'pid': 324, 'name': 'IOMFB_bics_daemo'}
+{'username': 'root', 'pid': 329, 'name': 'remoted'}
+{'username': 'root', 'pid': 334, 'name': 'watchdogd'}
+{'username': 'root', 'pid': 338, 'name': 'mds'}
+{'username': 'root', 'pid': 340, 'name': 'kernelmanagerd'}
+{'username': 'root', 'pid': 341, 'name': 'diskarbitrationd'}
+{'username': 'root', 'pid': 345, 'name': 'syslogd'}
+{'username': 'root', 'pid': 348, 'name': 'thermalmonitord'}
+{'username': 'root', 'pid': 349, 'name': 'opendirectoryd'}
+{'username': 'root', 'pid': 350, 'name': 'apsd'}
+{'username': 'root', 'pid': 351, 'name': 'httpd'}
+{'username': 'root', 'pid': 352, 'name': 'launchservicesd'}
+{'username': '_timed', 'pid': 353, 'name': 'timed'}
+{'username': '_usbmuxd', 'pid': 354, 'name': 'usbmuxd'}
+{'username': 'root', 'pid': 355, 'name': 'securityd'}
+{'username': '_locationd', 'pid': 357, 'name': 'locationd'}
+{'username': 'root', 'pid': 359, 'name': 'autofsd'}
+{'username': 'root', 'pid': 360, 'name': 'dasd'}
+{'username': '_distnote', 'pid': 362, 'name': 'distnoted'}
+{'username': 'root', 'pid': 366, 'name': 'logind'}
+{'username': 'root', 'pid': 367, 'name': 'revisiond'}
+{'username': 'root', 'pid': 368, 'name': 'KernelEventAgent'}
+{'username': 'root', 'pid': 371, 'name': 'bluetoothd'}
+{'username': 'root', 'pid': 372, 'name': 'notifyd'}
+{'username': 'root', 'pid': 374, 'name': 'corebrightnessd'}
+{'username': 'root', 'pid': 375, 'name': 'AirPlayXPCHelper'}
+{'username': 'root', 'pid': 376, 'name': 'com.apple.cmio.r'}
+{'username': '_analyticsd', 'pid': 378, 'name': 'analyticsd'}
+{'username': 'root', 'pid': 379, 'name': 'WindowServer'}
+{'username': 'root', 'pid': 380, 'name': 'cfprefsd'}
+{'username': 'root', 'pid': 381, 'name': 'tccd'}
+{'username': 'root', 'pid': 382, 'name': 'loginwindow'}
+{'username': 'root', 'pid': 384, 'name': 'runningboardd'}
+{'username': 'root', 'pid': 387, 'name': 'contextstored'}
+{'username': 'root', 'pid': 389, 'name': 'lsd'}
+{'username': 'root', 'pid': 390, 'name': 'coreservicesd'}
+{'username': '_coreaudiod', 'pid': 403, 'name': 'coreaudiod'}
+{'username': 'root', 'pid': 404, 'name': 'apfsd'}
+{'username': '_nsurlsessiond', 'pid': 405, 'name': 'nsurlsessiond'}
+{'username': 'root', 'pid': 406, 'name': 'airportd'}
+{'username': '_trustd', 'pid': 426, 'name': 'trustd'}
+{'username': '_cmiodalassistants', 'pid': 428, 'name': 'distnoted'}
+{'username': 'root', 'pid': 432, 'name': 'systemstatusd'}
+{'username': 'root', 'pid': 436, 'name': 'distnoted'}
+{'username': '_coreaudiod', 'pid': 452, 'name': 'distnoted'}
+{'username': '_windowserver', 'pid': 457, 'name': 'distnoted'}
+{'username': 'root', 'pid': 458, 'name': 'authd'}
+{'username': '_mdnsresponder', 'pid': 477, 'name': 'mDNSResponder'}
+{'username': '_networkd', 'pid': 478, 'name': 'symptomsd'}
+{'username': 'root', 'pid': 483, 'name': 'mDNSResponderHel'}
+{'username': 'root', 'pid': 522, 'name': 'mds_stores'}
+{'username': '_spotlight', 'pid': 530, 'name': 'distnoted'}
+{'username': '_softwareupdate', 'pid': 531, 'name': 'softwareupdated'}
+{'username': '_softwareupdate', 'pid': 537, 'name': 'distnoted'}
+{'username': 'root', 'pid': 540, 'name': 'storagekitd'}
+{'username': 'root', 'pid': 544, 'name': 'syspolicyd'}
+{'username': 'root', 'pid': 547, 'name': 'WirelessRadioMan'}
+{'username': '_appleevents', 'pid': 548, 'name': 'appleeventsd'}
+{'username': '_cmiodalassistants', 'pid': 550, 'name': 'appleh13camerad'}
+{'username': '_cmiodalassistants', 'pid': 551, 'name': 'UVCAssistant'}
+{'username': '_locationd', 'pid': 561, 'name': 'distnoted'}
+{'username': '_driverkit', 'pid': 567, 'name': 'com.apple.Driver'}
+{'username': '_driverkit', 'pid': 568, 'name': 'com.apple.AppleU'}
+{'username': 'root', 'pid': 569, 'name': 'suhelperd'}
+{'username': 'root', 'pid': 582, 'name': 'audioclocksyncd'}
+{'username': 'root', 'pid': 583, 'name': 'wifianalyticsd'}
+{'username': 'root', 'pid': 584, 'name': 'searchpartyd'}
+{'username': 'root', 'pid': 603, 'name': 'securityd_servic'}
+{'username': 'shubhamwalhekar', 'pid': 604, 'name': 'distnoted'}
+{'username': '_nsurlsessiond', 'pid': 605, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 607, 'name': 'cfprefsd'}
+{'username': 'shubhamwalhekar', 'pid': 608, 'name': 'UserEventAgent'}
+{'username': 'shubhamwalhekar', 'pid': 614, 'name': 'ContinuityCaptureAgent'}
+{'username': '_accessoryupdater', 'pid': 620, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 622, 'name': 'lsd'}
+{'username': 'shubhamwalhekar', 'pid': 626, 'name': 'nsurlsessiond'}
+{'username': 'shubhamwalhekar', 'pid': 627, 'name': 'lockoutagent'}
+{'username': 'shubhamwalhekar', 'pid': 628, 'name': 'rapportd'}
+{'username': 'shubhamwalhekar', 'pid': 630, 'name': 'usernoted'}
+{'username': 'shubhamwalhekar', 'pid': 635, 'name': 'secd'}
+{'username': 'shubhamwalhekar', 'pid': 636, 'name': 'accountsd'}
+{'username': 'shubhamwalhekar', 'pid': 637, 'name': 'universalaccessd'}
+{'username': 'shubhamwalhekar', 'pid': 638, 'name': 'pboard'}
+{'username': 'shubhamwalhekar', 'pid': 641, 'name': 'usernotificationsd'}
+{'username': 'shubhamwalhekar', 'pid': 642, 'name': 'identityservicesd'}
+{'username': 'shubhamwalhekar', 'pid': 643, 'name': 'WindowManager'}
+{'username': 'shubhamwalhekar', 'pid': 644, 'name': 'Google Chrome'}
+{'username': 'shubhamwalhekar', 'pid': 645, 'name': 'trustd'}
+{'username': '_appleevents', 'pid': 650, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 651, 'name': 'Electron'}
+{'username': 'shubhamwalhekar', 'pid': 658, 'name': 'sharedfilelistd'}
+{'username': 'shubhamwalhekar', 'pid': 665, 'name': 'NotificationCenter'}
+{'username': 'shubhamwalhekar', 'pid': 667, 'name': 'siriactionsd'}
+{'username': 'shubhamwalhekar', 'pid': 675, 'name': 'Dock'}
+{'username': 'shubhamwalhekar', 'pid': 676, 'name': 'fontd'}
+{'username': 'shubhamwalhekar', 'pid': 677, 'name': 'ControlCenter'}
+{'username': 'shubhamwalhekar', 'pid': 678, 'name': 'SystemUIServer'}
+{'username': 'shubhamwalhekar', 'pid': 679, 'name': 'Finder'}
+{'username': 'shubhamwalhekar', 'pid': 682, 'name': 'WallpaperAgent'}
+{'username': 'shubhamwalhekar', 'pid': 683, 'name': 'Spotlight'}
+{'username': 'root', 'pid': 684, 'name': 'filecoordination'}
+{'username': 'shubhamwalhekar', 'pid': 685, 'name': 'fontworker'}
+{'username': 'shubhamwalhekar', 'pid': 689, 'name': 'chrome_crashpad_handler'}
+{'username': 'root', 'pid': 693, 'name': 'automountd'}
+{'username': 'shubhamwalhekar', 'pid': 695, 'name': 'AMPDeviceDiscoveryAgent'}
+{'username': 'root', 'pid': 697, 'name': 'gamepolicyd'}
+{'username': 'shubhamwalhekar', 'pid': 699, 'name': 'corespotlightd'}
+{'username': '_nearbyd', 'pid': 703, 'name': 'nearbyd'}
+{'username': 'shubhamwalhekar', 'pid': 709, 'name': 'WallpaperVideoExtension'}
+{'username': 'shubhamwalhekar', 'pid': 716, 'name': 'Google Chrome Helper (GPU)'}
+{'username': 'shubhamwalhekar', 'pid': 718, 'name': 'Google Chrome Helper'}
+{'username': '_oahd', 'pid': 719, 'name': 'oahd'}
+{'username': 'shubhamwalhekar', 'pid': 720, 'name': 'useractivityd'}
+{'username': 'shubhamwalhekar', 'pid': 721, 'name': 'com.apple.dock.extra'}
+{'username': 'shubhamwalhekar', 'pid': 723, 'name': 'commerce'}
+{'username': 'shubhamwalhekar', 'pid': 724, 'name': 'WiFiAgent'}
+{'username': 'root', 'pid': 726, 'name': 'awdd'}
+{'username': 'shubhamwalhekar', 'pid': 727, 'name': 'ACCFinderSync'}
+{'username': 'shubhamwalhekar', 'pid': 731, 'name': 'Google Chrome Helper'}
+{'username': 'shubhamwalhekar', 'pid': 743, 'name': 'chrome_crashpad_handler'}
+{'username': 'shubhamwalhekar', 'pid': 744, 'name': 'Code Helper (GPU)'}
+{'username': 'shubhamwalhekar', 'pid': 745, 'name': 'Code Helper'}
+{'username': 'root', 'pid': 746, 'name': 'CVMServer'}
+{'username': 'shubhamwalhekar', 'pid': 756, 'name': 'UIKitSystem'}
+{'username': 'shubhamwalhekar', 'pid': 758, 'name': 'sharingd'}
+{'username': 'shubhamwalhekar', 'pid': 767, 'name': 'familycircled'}
+{'username': 'shubhamwalhekar', 'pid': 771, 'name': 'StatusKitAgent'}
+{'username': 'shubhamwalhekar', 'pid': 773, 'name': 'imagent'}
+{'username': 'shubhamwalhekar', 'pid': 775, 'name': 'imklaunchagent'}
+{'username': 'shubhamwalhekar', 'pid': 779, 'name': 'PAH_Extension'}
+{'username': 'shubhamwalhekar', 'pid': 780, 'name': 'mediaremoteagent'}
+{'username': 'shubhamwalhekar', 'pid': 782, 'name': 'avconferenced'}
+{'username': 'shubhamwalhekar', 'pid': 799, 'name': 'storedownloadd'}
+{'username': 'root', 'pid': 802, 'name': 'aned'}
+{'username': 'shubhamwalhekar', 'pid': 804, 'name': 'diagnostics_agent'}
+{'username': '_assetcache', 'pid': 829, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 831, 'name': 'Code Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 832, 'name': 'Code Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 833, 'name': 'Code Helper (Renderer)'}
+{'username': '_gamecontrollerd', 'pid': 841, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 843, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 844, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 845, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 846, 'name': 'Code Helper'}
+{'username': 'shubhamwalhekar', 'pid': 847, 'name': 'Code Helper'}
+{'username': 'shubhamwalhekar', 'pid': 848, 'name': 'Code Helper'}
+{'username': 'shubhamwalhekar', 'pid': 849, 'name': 'Code Helper'}
+{'username': 'shubhamwalhekar', 'pid': 850, 'name': 'Code Helper'}
+{'username': '_applepay', 'pid': 851, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 854, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 855, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 857, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 860, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 871, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 872, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 874, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 877, 'name': 'zsh'}
+{'username': 'shubhamwalhekar', 'pid': 878, 'name': 'zsh'}
+{'username': 'shubhamwalhekar', 'pid': 879, 'name': 'zsh'}
+{'username': 'shubhamwalhekar', 'pid': 880, 'name': 'zsh'}
+{'username': 'shubhamwalhekar', 'pid': 949, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 963, 'name': 'mdbulkimport'}
+{'username': 'shubhamwalhekar', 'pid': 1130, 'name': 'corespeechd'}
+{'username': 'shubhamwalhekar', 'pid': 1136, 'name': 'icdd'}
+{'username': 'shubhamwalhekar', 'pid': 1139, 'name': 'php-fpm'}
+{'username': 'shubhamwalhekar', 'pid': 1140, 'name': 'AirPlayUIAgent'}
+{'username': 'shubhamwalhekar', 'pid': 1144, 'name': 'TextInputMenuAgent'}
+{'username': 'root', 'pid': 1147, 'name': 'ctkahp'}
+{'username': 'shubhamwalhekar', 'pid': 1148, 'name': 'Loom'}
+{'username': 'shubhamwalhekar', 'pid': 1151, 'name': 'ctkahp'}
+{'username': 'shubhamwalhekar', 'pid': 1164, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 1165, 'name': 'Code Helper (Plugin)'}
+{'username': 'root', 'pid': 1166, 'name': 'SubmitDiagInfo'}
+{'username': 'shubhamwalhekar', 'pid': 1175, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 1197, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 1214, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 1250, 'name': 'chrome_crashpad_handler'}
+{'username': 'shubhamwalhekar', 'pid': 1251, 'name': 'Loom Helper (GPU)'}
+{'username': 'shubhamwalhekar', 'pid': 1252, 'name': 'Loom Helper'}
+{'username': 'shubhamwalhekar', 'pid': 1256, 'name': 'loom-recorder-production'}
+{'username': 'shubhamwalhekar', 'pid': 1259, 'name': 'loom_crashpad_handler'}
+{'username': 'shubhamwalhekar', 'pid': 1262, 'name': 'Loom Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 1281, 'name': 'Loom Helper'}
+{'username': 'shubhamwalhekar', 'pid': 1303, 'name': 'php-fpm'}
+{'username': 'shubhamwalhekar', 'pid': 1304, 'name': 'php-fpm'}
+{'username': '_fpsd', 'pid': 1311, 'name': 'fairplayd'}
+{'username': 'shubhamwalhekar', 'pid': 1333, 'name': 'launcher'}
+{'username': '_spotlight', 'pid': 1338, 'name': 'mdbulkimport'}
+{'username': 'root', 'pid': 1340, 'name': 'systemstats'}
+{'username': '_www', 'pid': 1365, 'name': 'httpd'}
+{'username': 'root', 'pid': 1401, 'name': 'CrashReporterSup'}
+{'username': 'shubhamwalhekar', 'pid': 1428, 'name': 'ShipIt'}
+{'username': '_rmd', 'pid': 1521, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 1564, 'name': 'Preview'}
+{'username': 'shubhamwalhekar', 'pid': 1567, 'name': 'mdwrite'}
+{'username': 'shubhamwalhekar', 'pid': 1572, 'name': 'mscamerad-xpc'}
+{'username': 'shubhamwalhekar', 'pid': 1573, 'name': 'ptpcamerad'}
+{'username': 'shubhamwalhekar', 'pid': 1588, 'name': 'Code Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 1589, 'name': 'Code Helper'}
+{'username': 'shubhamwalhekar', 'pid': 1590, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 1591, 'name': 'zsh'}
+{'username': 'shubhamwalhekar', 'pid': 1607, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 1648, 'name': 'Code Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 1705, 'name': 'seserviced'}
+{'username': 'root', 'pid': 1708, 'name': 'fbahelperd'}
+{'username': 'shubhamwalhekar', 'pid': 1751, 'name': 'PasswordBreachAgent'}
+{'username': 'root', 'pid': 1803, 'name': 'simdiskimaged'}
+{'username': 'shubhamwalhekar', 'pid': 2277, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': 'root', 'pid': 4255, 'name': 'coreauthd'}
+{'username': '_netbios', 'pid': 4296, 'name': 'netbiosd'}
+{'username': 'shubhamwalhekar', 'pid': 4518, 'name': 'Google Chrome Helper'}
+{'username': '_audiomxd', 'pid': 5393, 'name': 'audiomxd'}
+{'username': 'root', 'pid': 5501, 'name': 'audioanalyticsd'}
+{'username': 'shubhamwalhekar', 'pid': 5629, 'name': 'Google Chrome Helper (Plugin)'}
+{'username': 'shubhamwalhekar', 'pid': 6368, 'name': 'PowerChime'}
+{'username': 'shubhamwalhekar', 'pid': 6419, 'name': 'bird'}
+{'username': 'shubhamwalhekar', 'pid': 6617, 'name': 'storeuid'}
+{'username': 'shubhamwalhekar', 'pid': 6795, 'name': 'launcher'}
+{'username': 'shubhamwalhekar', 'pid': 7026, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 7063, 'name': 'ScreenTimeAgent'}
+{'username': 'shubhamwalhekar', 'pid': 7416, 'name': 'ShipIt'}
+{'username': 'shubhamwalhekar', 'pid': 7680, 'name': 'IMAutomaticHistoryDeletionAgent'}
+{'username': 'shubhamwalhekar', 'pid': 8694, 'name': 'containermanagerd'}
+{'username': 'shubhamwalhekar', 'pid': 8742, 'name': 'homed'}
+{'username': 'shubhamwalhekar', 'pid': 9192, 'name': 'routined'}
+{'username': '_coreaudiod', 'pid': 9227, 'name': 'com.apple.audio.'}
+{'username': 'shubhamwalhekar', 'pid': 9231, 'name': 'callservicesd'}
+{'username': 'shubhamwalhekar', 'pid': 9248, 'name': 'BiomeAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9254, 'name': 'CoreLocationAgent'}
+{'username': 'root', 'pid': 9260, 'name': 'backupd'}
+{'username': 'shubhamwalhekar', 'pid': 9267, 'name': 'CursorUIViewService'}
+{'username': 'shubhamwalhekar', 'pid': 9268, 'name': 'com.apple.hiservices-xpcservice'}
+{'username': 'shubhamwalhekar', 'pid': 9271, 'name': 'chronod'}
+{'username': 'shubhamwalhekar', 'pid': 9395, 'name': 'launcher'}
+{'username': 'shubhamwalhekar', 'pid': 9452, 'name': 'ContextStoreAgent'}
+{'username': 'root', 'pid': 9454, 'name': 'containermanager'}
+{'username': 'root', 'pid': 9457, 'name': 'nehelper'}
+{'username': 'shubhamwalhekar', 'pid': 9458, 'name': 'syncdefaultsd'}
+{'username': 'shubhamwalhekar', 'pid': 9460, 'name': 'tccd'}
+{'username': 'root', 'pid': 9469, 'name': 'mobileassetd'}
+{'username': 'shubhamwalhekar', 'pid': 9471, 'name': 'Keychain Circle Notification'}
+{'username': 'root', 'pid': 9472, 'name': 'com.apple.CodeSi'}
+{'username': 'shubhamwalhekar', 'pid': 9473, 'name': 'dataaccessd'}
+{'username': 'shubhamwalhekar', 'pid': 9474, 'name': 'calaccessd'}
+{'username': 'shubhamwalhekar', 'pid': 9475, 'name': 'audioaccessoryd'}
+{'username': 'shubhamwalhekar', 'pid': 9476, 'name': 'contactsd'}
+{'username': 'shubhamwalhekar', 'pid': 9481, 'name': 'OSDUIHelper'}
+{'username': 'shubhamwalhekar', 'pid': 9482, 'name': 'secinitd'}
+{'username': 'root', 'pid': 9484, 'name': 'wifip2pd'}
+{'username': 'shubhamwalhekar', 'pid': 9486, 'name': 'CommCenter'}
+{'username': 'shubhamwalhekar', 'pid': 9487, 'name': 'ViewBridgeAuxiliary'}
+{'username': 'root', 'pid': 9489, 'name': 'usermanagerd'}
+{'username': 'shubhamwalhekar', 'pid': 9490, 'name': 'pkd'}
+{'username': 'root', 'pid': 9491, 'name': 'sysmond'}
+{'username': '_biome', 'pid': 9494, 'name': 'biomed'}
+{'username': 'shubhamwalhekar', 'pid': 9499, 'name': 'contentlinkingd'}
+{'username': 'shubhamwalhekar', 'pid': 9500, 'name': 'AppleSpell'}
+{'username': 'shubhamwalhekar', 'pid': 9501, 'name': 'keyboardservicesd'}
+{'username': 'shubhamwalhekar', 'pid': 9502, 'name': 'suggestd'}
+{'username': 'shubhamwalhekar', 'pid': 9503, 'name': 'cloudd'}
+{'username': 'shubhamwalhekar', 'pid': 9504, 'name': 'neagent'}
+{'username': 'shubhamwalhekar', 'pid': 9505, 'name': 'knowledge-agent'}
+{'username': 'shubhamwalhekar', 'pid': 9506, 'name': 'contactsdonationagent'}
+{'username': 'root', 'pid': 9507, 'name': 'rtcreportingd'}
+{'username': 'shubhamwalhekar', 'pid': 9511, 'name': 'extensionkitservice'}
+{'username': 'shubhamwalhekar', 'pid': 9512, 'name': 'WeatherWidget'}
+{'username': 'shubhamwalhekar', 'pid': 9513, 'name': 'ScreenTimeWidgetExtension'}
+{'username': 'shubhamwalhekar', 'pid': 9514, 'name': 'com.apple.geod'}
+{'username': '_locationd', 'pid': 9516, 'name': 'com.apple.geod'}
+{'username': 'root', 'pid': 9517, 'name': 'com.apple.geod'}
+{'username': 'shubhamwalhekar', 'pid': 9529, 'name': 'UsageTrackingAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9530, 'name': 'ManagedSettingsAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9547, 'name': 'donotdisturbd'}
+{'username': 'root', 'pid': 9552, 'name': 'coreduetd'}
+{'username': 'shubhamwalhekar', 'pid': 9553, 'name': 'CMFSyncAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9554, 'name': 'NewsToday2'}
+{'username': 'shubhamwalhekar', 'pid': 9555, 'name': 'amsaccountsd'}
+{'username': 'shubhamwalhekar', 'pid': 9556, 'name': 'amsengagementd'}
+{'username': 'shubhamwalhekar', 'pid': 9557, 'name': 'swcd'}
+{'username': 'shubhamwalhekar', 'pid': 9568, 'name': 'pbs'}
+{'username': 'root', 'pid': 9584, 'name': 'AppleCredentialM'}
+{'username': 'shubhamwalhekar', 'pid': 9585, 'name': 'VTDecoderXPCService'}
+{'username': 'shubhamwalhekar', 'pid': 9587, 'name': 'akd'}
+{'username': 'shubhamwalhekar', 'pid': 9589, 'name': 'localizationswitcherd'}
+{'username': 'shubhamwalhekar', 'pid': 9590, 'name': 'followupd'}
+{'username': 'root', 'pid': 9591, 'name': 'backupd-helper'}
+{'username': 'shubhamwalhekar', 'pid': 9592, 'name': 'coreauthd'}
+{'username': 'root', 'pid': 9593, 'name': 'com.apple.Accoun'}
+{'username': 'root', 'pid': 9594, 'name': 'biometrickitd'}
+{'username': 'shubhamwalhekar', 'pid': 9595, 'name': 'coreautha'}
+{'username': 'shubhamwalhekar', 'pid': 9597, 'name': 'AudioComponentRegistrar'}
+{'username': 'root', 'pid': 9599, 'name': 'securityd_system'}
+{'username': 'root', 'pid': 9600, 'name': 'countryd'}
+{'username': '_hidd', 'pid': 9601, 'name': 'hidd'}
+{'username': 'shubhamwalhekar', 'pid': 9604, 'name': 'mobiletimerd'}
+{'username': 'shubhamwalhekar', 'pid': 9605, 'name': 'dmd'}
+{'username': 'shubhamwalhekar', 'pid': 9609, 'name': 'triald'}
+{'username': 'shubhamwalhekar', 'pid': 9611, 'name': 'WiFiVelocityAgent'}
+{'username': 'root', 'pid': 9612, 'name': 'wifivelocityd'}
+{'username': 'root', 'pid': 9613, 'name': 'osanalyticshelpe'}
+{'username': 'shubhamwalhekar', 'pid': 9620, 'name': 'networkserviceproxy'}
+{'username': 'root', 'pid': 9623, 'name': 'online-auth-agen'}
+{'username': 'shubhamwalhekar', 'pid': 9627, 'name': 'IMDPersistenceAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9628, 'name': 'iCloudNotificationAgent'}
+{'username': '_fpsd', 'pid': 9630, 'name': 'adid'}
+{'username': 'shubhamwalhekar', 'pid': 9631, 'name': 'ctkd'}
+{'username': 'shubhamwalhekar', 'pid': 9634, 'name': 'mapssyncd'}
+{'username': 'shubhamwalhekar', 'pid': 9639, 'name': 'intelligenceplatformd'}
+{'username': 'root', 'pid': 9643, 'name': 'smd'}
+{'username': 'root', 'pid': 9657, 'name': 'coresymbolicatio'}
+{'username': 'shubhamwalhekar', 'pid': 9666, 'name': 'tipsd'}
+{'username': 'shubhamwalhekar', 'pid': 9667, 'name': 'assistantd'}
+{'username': 'root', 'pid': 9669, 'name': 'mediaremoted'}
+{'username': 'shubhamwalhekar', 'pid': 9674, 'name': 'photolibraryd'}
+{'username': 'shubhamwalhekar', 'pid': 9676, 'name': 'ScopedBookmarkAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9677, 'name': 'IntelligencePlatformComputeService'}
+{'username': 'shubhamwalhekar', 'pid': 9679, 'name': 'CoreServicesUIAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9688, 'name': 'SafariBookmarksSyncAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9689, 'name': 'biomesyncd'}
+{'username': 'root', 'pid': 9695, 'name': 'logd_reporter'}
+{'username': 'shubhamwalhekar', 'pid': 9697, 'name': 'deleted'}
+{'username': 'shubhamwalhekar', 'pid': 9706, 'name': 'com.apple.quicklook.ThumbnailsAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9712, 'name': 'AMPLibraryAgent'}
+{'username': 'shubhamwalhekar', 'pid': 9728, 'name': 'com.apple.CloudPhotosConfiguration'}
+{'username': 'shubhamwalhekar', 'pid': 9739, 'name': 'com.apple.CoreSimulator.CoreSimulatorService'}
+{'username': 'shubhamwalhekar', 'pid': 9740, 'name': 'SimulatorTrampoline'}
+{'username': 'shubhamwalhekar', 'pid': 9746, 'name': 'ReportCrash'}
+{'username': 'root', 'pid': 9748, 'name': 'logd_helper'}
+{'username': 'shubhamwalhekar', 'pid': 9757, 'name': 'SoftwareUpdateNotificationManager'}
+{'username': 'shubhamwalhekar', 'pid': 9758, 'name': 'nsattributedstringagent'}
+{'username': 'shubhamwalhekar', 'pid': 9777, 'name': 'proactived'}
+{'username': 'shubhamwalhekar', 'pid': 9778, 'name': 'transparencyd'}
+{'username': '_neuralengine', 'pid': 9796, 'name': 'distnoted'}
+{'username': 'shubhamwalhekar', 'pid': 9805, 'name': 'media-indexer'}
+{'username': 'shubhamwalhekar', 'pid': 9819, 'name': 'maild'}
+{'username': 'root', 'pid': 9827, 'name': 'powerdatad'}
+{'username': 'shubhamwalhekar', 'pid': 9860, 'name': 'nbagent'}
+{'username': 'root', 'pid': 9875, 'name': 'mdsync'}
+{'username': 'shubhamwalhekar', 'pid': 9877, 'name': 'ProtectedCloudKeySyncing'}
+{'username': 'root', 'pid': 9902, 'name': 'amfid'}
+{'username': 'shubhamwalhekar', 'pid': 9910, 'name': 'fmfd'}
+{'username': 'shubhamwalhekar', 'pid': 9915, 'name': 'QuickLookUIService'}
+{'username': 'shubhamwalhekar', 'pid': 9946, 'name': 'parsecd'}
+{'username': 'shubhamwalhekar', 'pid': 9947, 'name': 'itunescloudd'}
+{'username': 'shubhamwalhekar', 'pid': 10252, 'name': 'VTDecoderXPCService'}
+{'username': 'shubhamwalhekar', 'pid': 10370, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10372, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10373, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10374, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10385, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10386, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10389, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10390, 'name': 'TabNine'}
+{'username': 'shubhamwalhekar', 'pid': 10397, 'name': 'TabNine-deep-local'}
+{'username': 'shubhamwalhekar', 'pid': 10461, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 10526, 'name': 'LinkedNotesUIService'}
+{'username': 'root', 'pid': 10808, 'name': 'systemsoundserve'}
+{'username': 'root', 'pid': 10809, 'name': 'AudioComponentRe'}
+{'username': 'root', 'pid': 10810, 'name': 'com.apple.audio.'}
+{'username': 'shubhamwalhekar', 'pid': 11186, 'name': 'adprivacyd'}
+{'username': 'shubhamwalhekar', 'pid': 11338, 'name': 'appstoreagent'}
+{'username': '_installcoordinationd', 'pid': 11339, 'name': 'installcoordinat'}
+{'username': 'root', 'pid': 11340, 'name': 'com.apple.AppSto'}
+{'username': 'shubhamwalhekar', 'pid': 11341, 'name': 'promotedcontentd'}
+{'username': 'shubhamwalhekar', 'pid': 11891, 'name': 'MTLCompilerService'}
+{'username': 'root', 'pid': 11894, 'name': 'ospredictiond'}
+{'username': 'shubhamwalhekar', 'pid': 11899, 'name': 'replayd'}
+{'username': 'root', 'pid': 11900, 'name': 'idleassetsd'}
+{'username': 'shubhamwalhekar', 'pid': 12302, 'name': 'intelligentroutingd'}
+{'username': 'shubhamwalhekar', 'pid': 12303, 'name': 'fileproviderd'}
+{'username': 'shubhamwalhekar', 'pid': 12463, 'name': 'XprotectService'}
+{'username': 'shubhamwalhekar', 'pid': 12466, 'name': 'iconservicesagent'}
+{'username': '_iconservices', 'pid': 12467, 'name': 'iconservicesd'}
+{'username': 'shubhamwalhekar', 'pid': 12468, 'name': 'naturallanguaged'}
+{'username': 'shubhamwalhekar', 'pid': 12472, 'name': 'csnameddatad'}
+{'username': 'shubhamwalhekar', 'pid': 12739, 'name': 'mediaanalysisd'}
+{'username': 'shubhamwalhekar', 'pid': 12829, 'name': 'WD-TabNine'}
+{'username': 'root', 'pid': 13078, 'name': 'XProtect'}
+{'username': 'root', 'pid': 13079, 'name': 'XProtectPluginSe'}
+{'username': 'shubhamwalhekar', 'pid': 13080, 'name': 'XProtect'}
+{'username': 'shubhamwalhekar', 'pid': 13081, 'name': 'XProtectPluginService'}
+{'username': 'root', 'pid': 13091, 'name': 'PowerUIAgent'}
+{'username': 'root', 'pid': 13094, 'name': 'PerfPowerService'}
+{'username': 'root', 'pid': 13095, 'name': 'symptomsd-diag'}
+{'username': 'root', 'pid': 13102, 'name': 'microstackshot'}
+{'username': 'shubhamwalhekar', 'pid': 13103, 'name': 'betaenrollmentd'}
+{'username': 'shubhamwalhekar', 'pid': 13104, 'name': 'com.apple.Safari.SafeBrowsing.Service'}
+{'username': 'root', 'pid': 13105, 'name': 'sandboxd'}
+{'username': 'shubhamwalhekar', 'pid': 13113, 'name': 'appleaccountd'}
+{'username': 'shubhamwalhekar', 'pid': 13114, 'name': 'cdpd'}
+{'username': 'root', 'pid': 13118, 'name': 'endpointsecurity'}
+{'username': 'shubhamwalhekar', 'pid': 13119, 'name': 'photoanalysisd'}
+{'username': 'shubhamwalhekar', 'pid': 13133, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 13137, 'name': 'com.apple.accessibility.mediaaccessibilityd'}
+{'username': 'root', 'pid': 13140, 'name': 'system_installd'}
+{'username': 'shubhamwalhekar', 'pid': 13141, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': '_softwareupdate', 'pid': 13146, 'name': 'softwareupdated'}
+{'username': 'root', 'pid': 13147, 'name': 'com.apple.Mobile'}
+{'username': 'shubhamwalhekar', 'pid': 13148, 'name': 'installerauthagent'}
+{'username': '_softwareupdate', 'pid': 13149, 'name': 'NRDUpdated'}
+{'username': 'shubhamwalhekar', 'pid': 13150, 'name': 'proactiveeventtrackerd'}
+{'username': 'root', 'pid': 13151, 'name': 'com.apple.NRD.Up'}
+{'username': 'root', 'pid': 13152, 'name': 'xpcroleaccountd'}
+{'username': '_softwareupdate', 'pid': 13153, 'name': 'nsattributedstri'}
+{'username': '_softwareupdate', 'pid': 13154, 'name': 'com.apple.hiserv'}
+{'username': '_softwareupdate', 'pid': 13155, 'name': 'cfprefsd'}
+{'username': '_softwareupdate', 'pid': 13157, 'name': 'com.apple.access'}
+{'username': 'root', 'pid': 13172, 'name': 'ASPCarryLog'}
+{'username': 'root', 'pid': 13173, 'name': 'deleted_helper'}
+{'username': '_neuralengine', 'pid': 13174, 'name': 'aneuserd'}
+{'username': 'shubhamwalhekar', 'pid': 13175, 'name': 'geodMachServiceBridge'}
+{'username': '_assetcache', 'pid': 13176, 'name': 'AssetCache'}
+{'username': 'root', 'pid': 13177, 'name': 'cloudd'}
+{'username': 'root', 'pid': 13178, 'name': 'installd'}
+{'username': 'root', 'pid': 13180, 'name': 'AssetCacheTether'}
+{'username': 'root', 'pid': 13186, 'name': 'automationmode-w'}
+{'username': 'shubhamwalhekar', 'pid': 13190, 'name': 'DockHelper'}
+{'username': '_applepay', 'pid': 13199, 'name': 'nfcd'}
+{'username': 'root', 'pid': 13349, 'name': 'XprotectService'}
+{'username': 'shubhamwalhekar', 'pid': 13383, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 13389, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 13473, 'name': 'com.apple.iCloudHelper'}
+{'username': 'shubhamwalhekar', 'pid': 13638, 'name': 'mdworker_shared'}
+{'username': 'shubhamwalhekar', 'pid': 13659, 'name': 'mdworker_shared'}
+{'username': 'shubhamwalhekar', 'pid': 13674, 'name': 'Google Chrome Helper (Renderer)'}
+{'username': 'shubhamwalhekar', 'pid': 13675, 'name': 'mdworker_shared'}
+{'username': 'shubhamwalhekar', 'pid': 13676, 'name': 'mdworker_shared'}
+{'username': 'shubhamwalhekar', 'pid': 13678, 'name': 'Python'}

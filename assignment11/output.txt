@@ -1,0 +1,12 @@
+----  Marvellous Infosystems by Shreya Mulay ----
+Design automation script which accept directory name and display checksum of all files.
+Current folder is: /Users/shubhamwalhekar/Desktop/Python/MachineLearning
+Checksum :  ef7b515ad9f37d2a50742c46951ad8c6
+Checksum :  5ef9b1f6c7af37c68b90fed3bf9719ea
+Checksum :  2d8712620ee2b14c216a5b1d61fdd0d5
+Checksum :  7901f45650140a8b406c966c59a073e7
+Checksum :  0ba826c2da862a8ab953ba7b21462130
+Current folder is: /Users/shubhamwalhekar/Desktop/Python/MachineLearning/PlayPredictorAssignment
+Checksum :  39a66abc4cdfd5c3a109dfea43070872
+Checksum :  852e7b3191d1bbd703b1bea92a3a8936
+Checksum :  abb50d4b31cc275c8231f61aa7089a70
